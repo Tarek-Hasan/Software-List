@@ -1,0 +1,83 @@
+
+0 A.D.  https://play0ad.com
+
+Beyond All Reason  https://www.beyondallreason.info
+
+FlightGear  https://www.flightgear.org
+
+Rigs of Rods  https://www.rigsofrods.org
+
+Ryzom  https://ryzom.com
+
+Sintel  https://github.com/jonburesh/sintelgame
+
+StuntRally  https://stuntrally.tuxfamily.org
+
+SuperTuxKart  https://supertuxkart.net
+
+The Dark Mod  https://www.thedarkmod.com
+
+  Missions  https://www.thedarkmod.com/missions
+
+Unvanquished  https://unvanquished.net
+
+Urban Terror  https://www.urbanterror.info
+
+Warzone 2100  https://wz2100.net
+
+Xonotic  https://xonotic.org
+
+Yo Frankie!  https://apricot.blender.org
+
+Zero-K  https://zero-k.info
+
+
+Emulator:
+ 
+ RetroArch  http://www.retroarch.com
+
+   Cores  http://buildbot.libretro.com/nightly
+
+   ROMs  https://archive.org/details/mame-merged
+
+
+Mini Games:
+
+ gbrainy  https://wiki.gnome.org/Apps/gbrainy
+
+ GCompris  https://gcompris.net
+
+ King Arthur's Gold  https://kag2d.com
+
+ Neverball  https://neverball.org
+
+ Ninslash  https://ninslash.com
+
+ NXEngine Evo (Cave Story)  https://github.com/nxengine/nxengine-evo
+
+ OpenClonk  https://www.openclonk.org
+
+ OpenSoldat  https://github.com/opensoldat/opensoldat
+
+ Super Cat Wars  https://gamejolt.com/games/supercatwars/627452
+
+ Super Mario Bros. X2  https://codehaus.moe
+
+ Super Mario War  https://github.com/mmatyas/supermariowar
+
+ SuperTux  https://www.supertux.org
+
+ VASSAL  https://vassalengine.org
+
+
+Tools:
+
+ Cheat Engine  https://cheatengine.org
+
+ CheatBook Database  http://www.cheatbook.de
+
+ RomCenter  https://www.romcenter.com
+
+ Steam  https://store.steampowered.com
+
+

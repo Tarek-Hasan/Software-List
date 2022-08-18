@@ -1,0 +1,477 @@
+
+OS:
+
+ x64:
+
+   openSUSE  https://www.opensuse.org
+
+   Kubuntu  https://kubuntu.org
+
+   Ubuntu Kylin  https://www.ubuntukylin.com/index-en.html
+
+ ARM:
+
+   Armbian  https://www.armbian.com
+
+   Manjaro  https://manjaro.org
+
+
+Security:
+
+ ClamTk  https://gitlab.com/dave_m/clamtk/wikis/Home
+
+ Kaspersky Virus Removal Tool  https://support.kaspersky.com/kvrt2020
+
+ Tron  https://github.com/bmrf/tron
+
+ BleachBit  https://www.bleachbit.org
+
+ KeePassXC  https://keepassxc.org
+
+ OONI  https://ooni.torproject.org
+
+ VeraCrypt  https://www.veracrypt.fr
+
+ ZoneMinder  https://www.zoneminder.com
+
+
+Audio Tools:
+
+ Plugin:
+
+   https://kx.studio/Repositories:Plugins
+
+   dexed  https://asb2m10.github.io/dexed
+
+   DrumGizmo  https://drumgizmo.org
+
+   guitarix https://guitarix.org
+
+   Linux Studio Plugins  https://lsp-plug.in
+
+   OB-Xd  https://www.discodsp.com/obxd
+
+   Odin  https://www.thewavewarden.com/odin2
+
+   Shortcircuit XT  https://github.com/surge-synthesizer/shortcircuit-xt
+
+   Stochas  https://stochas.org
+
+   Surge XT  https://surge-synthesizer.github.io
+
+   Vitalium  
+
+   Wolf Shaper  https://github.com/wolf-plugins/wolf-shaper
+
+   x42 Plugins  https://x42-plugins.com/x42
+
+   ZynAddSubFX  https://zynaddsubfx.sourceforge.io
+
+ Ardour  https://ardour.org
+
+ Cardinal https://github.com/DISTRHO/Cardinal
+
+ EasyEffects  https://github.com/wwmm/easyeffects
+
+ eSpeak NG  https://github.com/espeak-ng/espeak-ng
+
+ LMMS  https://lmms.io
+
+ Mimic  https://mimic.mycroft.ai
+
+ Mixxx  https://www.mixxx.org
+
+ MusicBrainz Picard  https://picard.musicbrainz.org
+
+ Sonic Visualiser  https://sonicvisualiser.org
+
+   aubio  https://aubio.org
+
+
+CAD:
+
+ FreeCAD  https://www.freecadweb.org
+
+ KiCad  http://kicad-pcb.org
+
+ Sweet Home 3D  http://www.sweethome3d.com
+
+
+Data Analysis & ERP:
+
+ Akaunting  https://akaunting.com
+
+ Axelor Open Suite  https://github.com/axelor/axelor-open-suite
+
+ Dolibarr  https://www.dolibarr.org
+
+ GNU Octave  https://www.gnu.org/software/octave
+
+   Octave Forge  https://octave.sourceforge.io/packages.php
+
+ JASP  https://jasp-stats.org
+
+
+Games:
+
+ (See Games links file)
+
+
+Graphics Editor:
+
+ 3D Utility:
+
+   Effekseer  https://effekseer.github.io/en
+
+   Material Maker  https://www.materialmaker.org
+
+   MeshLab  https://www.meshlab.net
+
+   Meshroom  https://alicevision.org/#meshroom
+
+   Tree It  https://www.evolved-software.com/treeit/treeit
+
+ Blender  https://www.blender.org
+
+  Add-ons:
+
+   Radeon ProRender  https://www.amd.com/en/technologies/radeon-prorender
+
+   Malt Render  https://malt3d.com
+
+   BagaPie Modifier  https://abaga.gumroad.com/l/BbGVh
+
+   Bone Widget  https://github.com/BlenderDefender/boneWidget
+
+   CloudRig  https://gitlab.com/blender/CloudRig
+
+   Layer Painter  https://github.com/joshuaKnauber/layer_painter
+
+   MB-Lab  https://mb-lab-community.github.io/MB-Lab.github.io
+
+   Mtree  https://github.com/MaximeHerpin/modular_tree
+
+   Papagayo-NG  https://morevnaproject.org/papagayo-ng
+
+   CAD:
+
+    BlenderBIM  https://blenderbim.org
+
+    Blender Archipack  https://github.com/s-leger/archipack
+
+    CAD Sketcher  https://github.com/hlorus/CAD_Sketcher
+
+    CAD Transform  https://blender-archipack.gumroad.com/l/nQVcS
+
+    Sverchok  https://github.com/nortikin/sverchok
+
+  Generators:
+
+    3D Wolf Generators  https://3d-wolf.com/products/assets/generators
+
+    Buildify  https://paveloliva.gumroad.com/l/buildify
+
+    Offroad Rig Generator  https://blenderesse.gumroad.com/l/momhq
+
+    Stylized Fantasy Tree Generator  https://rc12.gumroad.com/l/fantasytree
+
+ GIMP  https://www.gimp.org
+
+   G'MIC  https://gmic.eu
+
+ Godot  https://godotengine.org
+
+ darktable  https://www.darktable.org
+
+ digiKam  https://www.digikam.org
+
+ Inkscape  https://inkscape.org
+
+   Ink/Stitch  https://inkstitch.org
+
+   Isometric Projection  https://github.com/jdhoek/inkscape-isometric-projection
+
+   Shapes by Arakne  https://www.arakne.es/en/inkscape-shapes-1-extension-new-shape-paper-craft-tab/
+
+   XIA  https://xia.funraiders.org
+
+ Krita  https://krita.org
+
+ Pencil  https://pencil.evolus.vn
+
+
+Video Tools:
+
+ Kdenlive  https://kdenlive.org
+
+ Natron  https://natrongithub.github.io
+
+ digiCamControl  http://digicamcontrol.com
+
+ OBS Studio  https://obsproject.com
+
+ Astrofox  https://astrofox.io
+
+ HandBrake  https://handbrake.fr
+
+ MKVToolNix  https://mkvtoolnix.download
+
+ Subtitle Edit  https://www.nikse.dk/SubtitleEdit/
+
+ Waifu2x Extension  https://github.com/AaronFeng753/Waifu2x-Extension-GUI
+
+
+Internet:
+
+ Opera  https://www.opera.com
+
+ Firefox  https://www.mozilla.org/en-US/firefox/
+
+ Thunderbird  https://www.thunderbird.net
+
+ Free Download Manager  https://www.freedownloadmanager.org
+
+ qBittorrent  https://www.qbittorrent.org
+
+ Open Video Downloader  https://jely2002.github.io/youtube-dl-gui
+
+ NetTraffic  https://www.venea.net/web/nettraffic
+
+ RustDesk  https://rustdesk.com
+
+ FileZilla  https://filezilla-project.org
+
+ PowerTunnel  https://github.com/krlvm/PowerTunnel
+
+ SoftEther VPN  https://www.softether.org
+
+   VPN Gate  https://www.vpngate.net
+
+ Tor Browser  https://www.torproject.org
+
+
+Islamic:
+
+ Zekr  https://sourceforge.net/projects/zekr
+
+ Hadith Collection  https://gtaf.org/apps/hadith
+
+ Salaat Time  https://www.salaattime.com/salaat-time
+
+ Sally Prayer Times  http://sallyprayertimes.com
+
+
+Media Players:
+
+ VLC Media Player  https://www.videolan.org
+
+ PotPlayer  http://potplayer.daum.net
+
+ Kodi  https://kodi.tv
+
+   MythTV  https://www.mythtv.org
+
+   TVMosaic  https://gitlab.com/tvmosaic/server
+
+ DJV  https://darbyjohnston.github.io/DJV
+
+ Icaros  http://shark007.net/tools.html
+
+ MediaInfo  https://mediaarea.net/en/MediaInfo
+
+
+Office:
+
+ LibreOffice  https://www.libreoffice.org
+
+ WPS Office  https://www.wps.com
+
+ LanguageTool  https://languagetool.org
+
+ PeaZip  http://www.peazip.org
+
+ AnyBurn  http://www.anyburn.com
+
+ Avro Keyboard  https://www.omicronlab.com/avro-keyboard.html
+
+ KDiff3  https://apps.kde.org/kdiff3
+
+ Koodo Reader  https://github.com/troyeguo/koodo-reader
+
+ NAPS2  https://www.naps2.com
+
+ PDF24 Creator  https://tools.pdf24.org/en/creator
+
+ RapidTyping  http://www.rapidtyping.com/typing-tutor.html
+
+ Scribus  https://www.scribus.net
+
+ Shadhin Ovidhan  http://www.imaginativeworld.org/products/shadhin-ovidhan
+
+ TheSage  http://www.sequencepublishing.com
+
+ Tellico  http://tellico-project.org
+
+ translateLocally  https://github.com/XapaJIaMnu/translateLocally
+
+
+Programing:
+
+ Qt  https://www1.qt.io/offline-installers/?hsLang=en
+
+ VSCodium  https://vscodium.com
+
+  Extension:
+
+   C# by Microsoft
+
+   C,C++ by Microsoft
+
+   CMake Tools by Microsoft
+
+   Code Spell Checker
+
+   Extension Pack for Java
+
+   Git Graph
+
+   GitLens
+
+   IntelliCode
+
+   PWA Studio
+
+   Pylance
+
+   Python by Microsoft
+
+   Todo Tree
+
+ APK Editor Studio  https://qwertycube.com/apk-editor-studio
+
+ .NET SDK  https://dotnet.microsoft.com
+
+ Boost  https://www.boost.org
+
+ CMake  https://cmake.org
+
+ Doxygen  http://www.doxygen.nl
+
+ Electron  https://electronjs.org
+
+ Git  https://git-scm.com
+
+ Java SDK  https://adoptium.net
+
+ LLVM/Clang  https://llvm.org
+
+ MSYS2  https://www.msys2.org
+
+ Node.js  https://nodejs.org
+
+ NSIS  http://nsis.sourceforge.net/Main_Page
+
+ Python  https://www.python.org
+
+ QEMU  https://www.qemu.org
+
+   virt-manager  https://virt-manager.org
+
+ VirtualBox  https://www.virtualbox.org
+
+
+Web Development:
+
+ Firefox Developer Edition  https://www.mozilla.org/en-US/firefox/developer/
+
+ Silex  https://www.silex.me
+
+ XAMPP https://www.apachefriends.org
+
+ Cockpit  https://cockpit-project.org
+
+ Docker  https://www.docker.com
+
+ Drupal  https://www.drupal.org
+
+ phpBB  https://www.phpbb.com
+
+ Podman  https://podman.io
+
+ PrestaShop  https://www.prestashop.com
+
+ WordPress  https://wordpress.org
+
+
+Runtime SDK:
+
+ .NET Desktop Runtime  https://dotnet.microsoft.com
+
+ Java Runtime  https://adoptium.net
+
+ Ruffle  https://ruffle.rs
+
+ WayDroid  https://github.com/waydroid/waydroid
+
+ Wine  https://github.com/Kron4ek/Wine-Builds
+
+   Bottles  https://usebottles.com
+
+   FEX-Emu  https://github.com/FEX-Emu/FEX
+
+ Visual C++ Redistributable  https://github.com/abbodi1406/vcredist
+
+ Vulkan Runtime  https://vulkan.lunarg.com/sdk/home
+
+
+Utilities:
+
+ Rainmeter  https://www.rainmeter.net
+
+   ScreenStyler  https://screenstyler.com
+
+ Advanced Renamer  https://www.advancedrenamer.com
+
+ AppImageLauncher  https://github.com/TheAssassin/AppImageLauncher
+
+ Attribute Changer  https://www.petges.lu
+
+ Czkawka  https://github.com/qarmin/czkawka
+
+ Gramps  https://gramps-project.org
+
+ KDE Connect  https://kdeconnect.kde.org
+
+ LockHunter  https://lockhunter.com
+
+ Slimbook Battery  https://github.com/slimbook/slimbookbattery
+
+ Universal Extractor  https://github.com/Bioruebe/UniExtract2
+
+ Ventoy  https://www.ventoy.net
+
+
+Service Tools:
+
+ (See folder)
+
+
+Hacking & Forensics Tools:
+
+ Kali Linux https://www.kali.org
+
+ Rescuezilla https://rescuezilla.com
+
+ Autopsy  https://www.sleuthkit.org/autopsy/
+
+ DNS Benchmark  https://www.grc.com/dns/benchmark.htm
+
+ Resource Hacker http://angusj.com/resourcehacker
+
+ Sysinternals Suite https://docs.microsoft.com/en-us/sysinternals
+
+ TestDisk  https://www.cgsecurity.org/wiki/TestDisk
+
+ TinyCheck  https://github.com/KasperskyLab/tinycheck
+
+
