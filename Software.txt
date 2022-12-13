@@ -5,9 +5,9 @@ OS:
 
    openSUSE  https://www.opensuse.org
 
-   Kubuntu  https://kubuntu.org
-
    Ubuntu Kylin  https://www.ubuntukylin.com/index-en.html
+
+   Ubuntu Studio  https://ubuntustudio.org
 
  ARM:
 
@@ -28,7 +28,7 @@ Security:
 
  KeePassXC  https://keepassxc.org
 
- OONI  https://ooni.torproject.org
+ OONI  https://ooni.org
 
  VeraCrypt  https://www.veracrypt.fr
 
@@ -37,9 +37,11 @@ Security:
 
 Audio Tools:
 
- Plugin:
+ Plugins:
 
    https://kx.studio/Repositories:Plugins
+
+   Calf Studio Gear  https://calf-studio-gear.org
 
    dexed  https://asb2m10.github.io/dexed
 
@@ -48,6 +50,8 @@ Audio Tools:
    guitarix https://guitarix.org
 
    Linux Studio Plugins  https://lsp-plug.in
+
+   master-me  https://github.com/trummerschlunk/master_me
 
    OB-Xd  https://www.discodsp.com/obxd
 
@@ -69,9 +73,11 @@ Audio Tools:
 
  Ardour  https://ardour.org
 
+ Audacity  https://www.audacityteam.org
+
  Cardinal https://github.com/DISTRHO/Cardinal
 
- EasyEffects  https://github.com/wwmm/easyeffects
+ Easy Effects  https://github.com/wwmm/easyeffects
 
  eSpeak NG  https://github.com/espeak-ng/espeak-ng
 
@@ -92,7 +98,7 @@ CAD:
 
  FreeCAD  https://www.freecadweb.org
 
- KiCad  http://kicad-pcb.org
+ KiCad  https://www.kicad.org
 
  Sweet Home 3D  http://www.sweethome3d.com
 
@@ -101,20 +107,17 @@ Data Analysis & ERP:
 
  Akaunting  https://akaunting.com
 
- Axelor Open Suite  https://github.com/axelor/axelor-open-suite
+ Axelor Open Suite  https://axelor.com
 
  Dolibarr  https://www.dolibarr.org
 
  GNU Octave  https://www.gnu.org/software/octave
 
-   Octave Forge  https://octave.sourceforge.io/packages.php
+   Octave Packages  https://gnu-octave.github.io/packages
 
  JASP  https://jasp-stats.org
 
-
-Games:
-
- (See Games links file)
+ KNIME  https://www.knime.com
 
 
 Graphics Editor:
@@ -179,6 +182,18 @@ Graphics Editor:
 
    G'MIC  https://gmic.eu
 
+   GIMP-ML  https://github.com/UserUnknownFactor/GIMP3-ML
+
+   GIMP Background Remover https://github.com/manu12121999/GIMP-Background-Remover
+
+   Elsamuko Scripts  https://elsamuko.github.io/gimp-elsamuko/scripts.html
+
+   Scripts by Paul Sherman  https://www.gimphelp.org
+
+   BIMP  https://alessandrofrancesconi.it/projects/bimp
+
+ Glaxnimate  https://glaxnimate.mattbas.org
+
  Godot  https://godotengine.org
 
  darktable  https://www.darktable.org
@@ -191,13 +206,13 @@ Graphics Editor:
 
    Isometric Projection  https://github.com/jdhoek/inkscape-isometric-projection
 
-   Shapes by Arakne  https://www.arakne.es/en/inkscape-shapes-1-extension-new-shape-paper-craft-tab/
+   Shapes by Arakne  https://www.arakne.es/en/category/dessign/inkscape-en
 
    XIA  https://xia.funraiders.org
 
  Krita  https://krita.org
 
- Pencil  https://pencil.evolus.vn
+ Penpot  https://code.korbsstudio.com/KorbsStudio/Penpot-Desktop
 
 
 Video Tools:
@@ -218,14 +233,16 @@ Video Tools:
 
  Subtitle Edit  https://www.nikse.dk/SubtitleEdit/
 
+ Upscayl  https://github.com/upscayl/upscayl
+
  Waifu2x Extension  https://github.com/AaronFeng753/Waifu2x-Extension-GUI
 
 
 Internet:
 
- Opera  https://www.opera.com
-
  Firefox  https://www.mozilla.org/en-US/firefox/
+
+ Vivaldi  https://vivaldi.com
 
  Thunderbird  https://www.thunderbird.net
 
@@ -234,8 +251,6 @@ Internet:
  qBittorrent  https://www.qbittorrent.org
 
  Open Video Downloader  https://jely2002.github.io/youtube-dl-gui
-
- NetTraffic  https://www.venea.net/web/nettraffic
 
  RustDesk  https://rustdesk.com
 
@@ -249,8 +264,12 @@ Internet:
 
  Tor Browser  https://www.torproject.org
 
+ TrafficMonitor  https://github.com/zhongyang219/TrafficMonitor
+
 
 Islamic:
+
+ Al Quran  https://gtaf.org/apps/quran
 
  Zekr  https://sourceforge.net/projects/zekr
 
@@ -258,14 +277,14 @@ Islamic:
 
  Salaat Time  https://www.salaattime.com/salaat-time
 
- Sally Prayer Times  http://sallyprayertimes.com
+ Sally Prayer Times  https://sallyprayertimes.com
 
 
-Media Players:
+Media Viewers:
 
  VLC Media Player  https://www.videolan.org
 
- PotPlayer  http://potplayer.daum.net
+ PotPlayer  https://potplayer.daum.net
 
  Kodi  https://kodi.tv
 
@@ -275,7 +294,9 @@ Media Players:
 
  DJV  https://darbyjohnston.github.io/DJV
 
- Icaros  http://shark007.net/tools.html
+ ImageGlass  https://imageglass.org
+
+ Icaros  https://github.com/Xanashi/Icaros
 
  MediaInfo  https://mediaarea.net/en/MediaInfo
 
@@ -288,9 +309,9 @@ Office:
 
  LanguageTool  https://languagetool.org
 
- PeaZip  http://www.peazip.org
+ PeaZip  https://peazip.github.io
 
- AnyBurn  http://www.anyburn.com
+ AnyBurn  https://anyburn.com
 
  Avro Keyboard  https://www.omicronlab.com/avro-keyboard.html
 
@@ -302,48 +323,52 @@ Office:
 
  PDF24 Creator  https://tools.pdf24.org/en/creator
 
- RapidTyping  http://www.rapidtyping.com/typing-tutor.html
+ RapidTyping  https://rapidtyping.com
 
  Scribus  https://www.scribus.net
 
- Shadhin Ovidhan  http://www.imaginativeworld.org/products/shadhin-ovidhan
+ Shadhin Ovidhan  https://imaginativeworld.org/products/shadhin-ovidhan
 
- TheSage  http://www.sequencepublishing.com
+ TheSage  https://sequencepublishing.com
 
- Tellico  http://tellico-project.org
+ Tellico  https://tellico-project.org
 
  translateLocally  https://github.com/XapaJIaMnu/translateLocally
 
 
 Programing:
 
- Qt  https://www1.qt.io/offline-installers/?hsLang=en
+ Qt  https://www.qt.io/offline-installers
 
  VSCodium  https://vscodium.com
 
-  Extension:
+  Extensions:  https://open-vsx.org
 
-   C# by Microsoft
+   C# by OmniSharp
 
    C,C++ by Microsoft
 
-   CMake Tools by Microsoft
+   CMake
+
+   CMake Tools
 
    Code Spell Checker
 
    Extension Pack for Java
 
-   Git Graph
-
    GitLens
 
    IntelliCode
 
-   PWA Studio
+   NSIS
 
-   Pylance
+   PWABuilder Studio
+
+   Pylint
 
    Python by Microsoft
+
+   Text Power Tools
 
    Todo Tree
 
@@ -355,9 +380,13 @@ Programing:
 
  CMake  https://cmake.org
 
- Doxygen  http://www.doxygen.nl
+ Doxygen  https://www.doxygen.nl
 
  Electron  https://electronjs.org
+
+   Electron Forge  https://www.electronforge.io
+
+   Electron Fiddle  https://www.electronjs.org/fiddle
 
  Git  https://git-scm.com
 
@@ -369,7 +398,7 @@ Programing:
 
  Node.js  https://nodejs.org
 
- NSIS  http://nsis.sourceforge.net/Main_Page
+ NSIS  https://nsis.sourceforge.io
 
  Python  https://www.python.org
 
@@ -382,7 +411,7 @@ Programing:
 
 Web Development:
 
- Firefox Developer Edition  https://www.mozilla.org/en-US/firefox/developer/
+ Firefox Developer Edition  https://www.mozilla.org/en-US/firefox/developer
 
  Silex  https://www.silex.me
 
@@ -390,20 +419,20 @@ Web Development:
 
  Cockpit  https://cockpit-project.org
 
- Docker  https://www.docker.com
-
  Drupal  https://www.drupal.org
 
  phpBB  https://www.phpbb.com
 
  Podman  https://podman.io
 
+   Podman Desktop  https://podman-desktop.io
+
  PrestaShop  https://www.prestashop.com
 
  WordPress  https://wordpress.org
 
 
-Runtime SDK:
+Runtime Env:
 
  .NET Desktop Runtime  https://dotnet.microsoft.com
 
@@ -450,10 +479,7 @@ Utilities:
 
  Ventoy  https://www.ventoy.net
 
-
-Service Tools:
-
- (See folder)
+ WingetUI  https://github.com/martinet101/WingetUI
 
 
 Hacking & Forensics Tools:
@@ -462,11 +488,11 @@ Hacking & Forensics Tools:
 
  Rescuezilla https://rescuezilla.com
 
- Autopsy  https://www.sleuthkit.org/autopsy/
+ Autopsy  https://www.sleuthkit.org/autopsy
 
  DNS Benchmark  https://www.grc.com/dns/benchmark.htm
 
- Resource Hacker http://angusj.com/resourcehacker
+ PE-bear https://github.com/hasherezade/pe-bear
 
  Sysinternals Suite https://docs.microsoft.com/en-us/sysinternals
 
